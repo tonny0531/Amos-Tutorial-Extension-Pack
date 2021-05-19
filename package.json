@@ -2,6 +2,7 @@
     "name": "amos-tutorial-extension-pack",
     "displayName": "Amos Tutorial Extension Pack",
     "description": "Amos上課推薦用的擴充套件包",
+    "repository":"https://github.com/tonny0531/Amos-Tutorial-Extension-Pack",
     "publisher": "JeffCheng",
     "version": "0.0.1",
     "engines": {
